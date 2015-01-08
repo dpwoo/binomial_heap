@@ -294,3 +294,5 @@ binheap_dump(struct binheap *heap)
 	fprintf(stderr, "\n");
 	fflush(stderr);
 }
+/* end of file */
+
